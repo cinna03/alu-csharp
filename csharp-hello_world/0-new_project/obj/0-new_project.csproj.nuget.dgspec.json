@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Downloads\\alu-csharp-main\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
+    "C:\\Users\\HP\\Downloads\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Downloads\\alu-csharp-main\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {
+    "C:\\Users\\HP\\Downloads\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Downloads\\alu-csharp-main\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Downloads\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
         "projectName": "0-new_project",
-        "projectPath": "C:\\Users\\HP\\Downloads\\alu-csharp-main\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "projectPath": "C:\\Users\\HP\\Downloads\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Downloads\\alu-csharp-main\\csharp-hello_world\\0-new_project\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Downloads\\alu-csharp\\csharp-hello_world\\0-new_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
