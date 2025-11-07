@@ -1,4 +1,0 @@
-C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfoInputs.cache
-C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfo.cs
-C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.csproj.CoreCompileInputs.cache
