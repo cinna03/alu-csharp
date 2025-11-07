@@ -1,0 +1,5 @@
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\0-add\obj\Debug\net7.0\0-add.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\0-add\obj\Debug\net7.0\0-add.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\0-add\obj\Debug\net7.0\0-add.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\0-add\obj\Debug\net7.0\0-add.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\0-add\obj\Debug\net7.0\0-add.AssemblyInfo.cs

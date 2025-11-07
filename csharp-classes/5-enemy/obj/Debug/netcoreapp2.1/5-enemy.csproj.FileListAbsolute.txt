@@ -1,0 +1,11 @@
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.xml
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.deps.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.pdb

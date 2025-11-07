@@ -1,0 +1,17 @@
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\Test.deps.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\Test.runtimeconfig.dev.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\Test.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\Test.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\MyMath.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\MyMath.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\bin\Debug\netcoreapp2.1\MyMath.xml
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.csproj.CopyComplete
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\2-max_int\Test\obj\Debug\netcoreapp2.1\Test.genruntimeconfig.cache

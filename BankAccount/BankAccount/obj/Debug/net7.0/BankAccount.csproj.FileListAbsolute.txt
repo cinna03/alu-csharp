@@ -1,0 +1,11 @@
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.deps.json
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.dll
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\bin\Debug\net7.0\BankAccount.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.dll
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\refint\BankAccount.dll
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\BankAccount.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\BankAccount\BankAccount\obj\Debug\net7.0\ref\BankAccount.dll

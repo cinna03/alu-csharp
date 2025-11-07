@@ -1,0 +1,14 @@
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\bin\Debug\netcoreapp2.1\4-enemy.xml
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\bin\Debug\netcoreapp2.1\4-enemy.deps.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\bin\Debug\netcoreapp2.1\4-enemy.runtimeconfig.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\bin\Debug\netcoreapp2.1\4-enemy.runtimeconfig.dev.json
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\bin\Debug\netcoreapp2.1\4-enemy.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\bin\Debug\netcoreapp2.1\4-enemy.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.csproj.CoreCompileInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.dll
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.pdb
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-classes\4-enemy\obj\Debug\netcoreapp2.1\4-enemy.genruntimeconfig.cache

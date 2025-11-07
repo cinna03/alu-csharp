@@ -1,0 +1,5 @@
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\1-divide\obj\Debug\net7.0\1-divide.csproj.AssemblyReference.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\1-divide\obj\Debug\net7.0\1-divide.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\1-divide\obj\Debug\net7.0\1-divide.AssemblyInfoInputs.cache
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\1-divide\obj\Debug\net7.0\1-divide.AssemblyInfo.cs
+c:\Users\user\alu-csharp\alu-csharp-1\csharp-tdd\1-divide\obj\Debug\net7.0\1-divide.csproj.CoreCompileInputs.cache

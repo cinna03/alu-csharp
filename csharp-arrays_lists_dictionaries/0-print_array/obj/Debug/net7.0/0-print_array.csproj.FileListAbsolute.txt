@@ -1,0 +1,4 @@
+C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\net7.0\0-print_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\net7.0\0-print_array.AssemblyInfoInputs.cache
+C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\net7.0\0-print_array.AssemblyInfo.cs
+C:\Users\user\alu-csharp-2\csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\net7.0\0-print_array.csproj.CoreCompileInputs.cache
